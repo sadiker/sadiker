@@ -16,7 +16,6 @@
 <img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
 <img align="left" height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
 <img align="left" height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"/>
-<img align="left" height="45" width="45" src="https://cdn.simpleicons.org/springsecurity/green" />
 <img align="left" height="45" width="45" src="https://www.thymeleaf.org/images/thymeleaf.png"/>
 <img align="left" height="45" width="45" src="https://tomcat.apache.org/res/images/tomcat.png"/>
 <img align="left" height="45" width="45" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"/>
