@@ -29,7 +29,7 @@
 
 <details>
 <summary>:bulb: Github Stats</summary>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sadiker&theme=tokyonight"> 
+<img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sadiker&theme=tokyonight"> 
  </details>
  
  <br/>
