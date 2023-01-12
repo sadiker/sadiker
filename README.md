@@ -36,5 +36,5 @@
  
  <details>
 <summary>:bulb: Most Used Languages</summary>
-<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiker&layout=compact"> 
+<img  align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sadiker&layout=compact"> 
  </details>
