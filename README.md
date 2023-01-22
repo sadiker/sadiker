@@ -1,5 +1,4 @@
-![coding-computer-coding](https://user-images.githubusercontent.com/121498198/213941336-41490b8f-8b37-4ed3-ba3e-f085ae9297bc.gif)
-
+<img src="https://user-images.githubusercontent.com/121498198/213941336-41490b8f-8b37-4ed3-ba3e-f085ae9297bc.gif" align="right" with="300" height="300" z-index="5"  >
 
 # Hi there! I'm Salih. :blush: Welcome to my GitHub...
 ## I'm Java Backend Developer
